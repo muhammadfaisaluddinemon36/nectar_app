@@ -2,15 +2,20 @@
 
 A new Flutter project.
 
-## Getting Started
+# Getting Started
 
-This project is a starting point for a Flutter application.
+Splash Screen:
 
-A few resources to get you started if this is your first Flutter project:
+<img width="500" height="1000" alt="Screenshot_1763577957" src="https://github.com/user-attachments/assets/db11bb0e-8316-48a3-abc6-9df378f56991" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Signup Screen:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="500" height="1000" alt="Screenshot_1763579583" src="https://github.com/user-attachments/assets/5121a871-1a76-4e91-a39d-f2237cf06480" />
+
+SignIn Screen:
+
+<img width="500" height="1000" alt="Screenshot_1763579594" src="https://github.com/user-attachments/assets/6678d1ad-37c9-406a-a842-fd0235f1e320" />
+
+Welcome Screen Screen:
+
+<img width="580" height="1000" alt="Screenshot_1763579775" src="https://github.com/user-attachments/assets/15f7ab7c-18da-4660-b3ca-33c3def1701b" />
