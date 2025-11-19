@@ -18,4 +18,5 @@ SignIn Screen:
 
 Welcome Screen Screen:
 
-<img width="580" height="1000" alt="Screenshot_1763579775" src="https://github.com/user-attachments/assets/15f7ab7c-18da-4660-b3ca-33c3def1701b" />
+<img width="500" height="1000" alt="Screenshot_1763579778" src="https://github.com/user-attachments/assets/8f1ecb8a-16a2-41d6-be1b-82fb9f3307d3" />
+
