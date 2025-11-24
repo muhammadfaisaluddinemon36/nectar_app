@@ -4,10 +4,6 @@ A new Flutter project.
 
 # Getting Started
 
-Splash Screen:
-
-<img width="500" height="1000" alt="Screenshot_1763577957" src="https://github.com/user-attachments/assets/db11bb0e-8316-48a3-abc6-9df378f56991" />
-
 Signup Screen:
 
 <img width="500" height="1000" alt="Screenshot_1763579583" src="https://github.com/user-attachments/assets/5121a871-1a76-4e91-a39d-f2237cf06480" />
